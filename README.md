@@ -17,13 +17,13 @@
 
 
 <!--Intro start-->
-- 🔭  I’m a Systems Engineering student at Universidad de San Carlos de Guatemala.**
+- 🔭  I’m a Systems Engineering student at Universidad de San Carlos de Guatemala.
 
-- 💻 Passionate about exploring and learning new programming languages and staying up-to-date with the latest technological advancements.**
+- 💻 Passionate about exploring and learning new programming languages and staying up-to-date with the latest technological advancements.
 
-- 🔍 Always eager to tackle new challenges and solve real-world problems through technology.**
+- 🔍 Always eager to tackle new challenges and solve real-world problems through technology.
 
-- 📚 Lifelong learner with a strong interest in continuous improvement and professional growth.**
+- 📚 Lifelong learner with a strong interest in continuous improvement and professional growth.
 
 <!--Intro end-->
 
@@ -66,7 +66,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,github,html,java,js,linux,md,nodejs,postman,py,react,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,github,html,java,js,linux,md,nodejs,postman,py,react, ts,vscode&perline=14" />
   </a>
 </p>
 
