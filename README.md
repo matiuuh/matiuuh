@@ -26,10 +26,12 @@
 - 📚 Lifelong learner with a strong interest in continuous improvement and professional growth.
 
 <!--Intro end-->
-
-
 <br>
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+
 <!--- stats & Trophy (start) -->
+
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
@@ -56,20 +58,15 @@
 </p>        
 <!--- stats (end) -->
 
+## 👨🏻‍💻 Technologies that I know
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,github,html,java,js,linux,md,nodejs,postman,py,react,ts,cmake,arduino,angular,discord,django,flask,gitlab,gmail,qt,raspberrypi,sublime,vscode&perline=14" />
   </a>
 </p>
-
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
