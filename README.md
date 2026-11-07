@@ -68,4 +68,12 @@
   </a>
 </p>
 
+## 🎓 Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/badges/4384c3c9-c985-45bf-b554-6bb9d885e542/public_url">
+    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/linkedin_thumb_image.png" alt="AWS Certified Cloud Practitioner" height="120" />
+  </a>
+</p>
+
 ----------------------------------------------------------------------
